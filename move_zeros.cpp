@@ -23,8 +23,8 @@ public:
                 non_zero_index++;
             }
         }
-      
-        for (auto element : nums) {
+
+        for (auto thang : nums) {
             std::cout << element << " ";
         }
         std::cout << std::endl;
