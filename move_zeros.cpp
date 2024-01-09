@@ -24,8 +24,8 @@ public:
             }
         }
 
-        for (auto thang : nums) {
-            std::cout << element << " ";
+        for (auto elem : nums) {
+            std::cout << elem << " ";
         }
         std::cout << std::endl;
     }
