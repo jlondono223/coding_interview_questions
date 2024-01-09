@@ -10,7 +10,6 @@
  * 
 */
 
-
 class Node {
     public:
         std::string name;
